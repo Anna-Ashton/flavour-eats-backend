@@ -16,7 +16,7 @@ user11 = User.create(username: "gale", email: "gale370@gmail.com", password_dige
 user12 = User.create(username: "damian", email: "damianvirgo@gmail.com", password_digest: "123herewego")
 user13 = User.create(username: "lindsey sterling", email: "lindseysterling@yahoo.com", password_digest: "comewego")
 user14 = User.create(username: "duraglord", email: "duraglord@hotmail.com", password_digest: "loseyounow")
-user15 = User.create(username: "westsideniccur", email: "westsideniccur@yahoo.com", password_digest: "highkey4ever")
+# s
 #Seeds for Food
 food1 = Food.create(name: "Pizza", price: 3238, food_url: "https://unsplash.com/photos/MQUqbmszGGM", description: "crispy", review: "The pizza was crispy and tasty")
 food2 = Food.create(name: "French Toast", price: 585, food_url: "https://unsplash.com/photos/SQ20tWzxXO0", description: "delicious", review: "the french toast was fresh and delicious")
