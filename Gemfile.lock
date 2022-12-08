@@ -114,6 +114,7 @@ GEM
     nio4r (2.5.8)
     nokogiri (1.13.9-x86_64-linux)
       racc (~> 1.4)
+    pg (1.4.3)
     puma (5.6.5)
       nio4r (~> 2.0)
     racc (1.6.0)
@@ -167,13 +168,11 @@ DEPENDENCIES
   bcrypt (~> 3.1.7)
   debug
   faker
+  pg
   puma (~> 5.0)
   rails (~> 7.0.4)
   sqlite3 (~> 1.4)
   tzinfo-data
-
-RUBY VERSION
-   ruby 2.7.4p191
 
 BUNDLED WITH
    2.3.26
